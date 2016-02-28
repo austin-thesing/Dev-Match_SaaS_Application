@@ -1,0 +1,60 @@
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 17:45:15 -0800
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/austinthesing/.rvm/gems/ruby-2.2.1/gems/railties-4.1.0/lib/rails/templates/rails/welcome/index.html.erb (2.5ms)
+Completed 200 OK in 20ms (Views: 11.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 18:50:50 -0800
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 2198ms (Views: 2187.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages-539b1b2d248fcacaf845c897cae976a6.css?body=1" for 127.0.0.1 at 2016-02-27 18:50:53 -0800
+
+
+Started GET "/assets/application-2e9d1cb72084fa4225b20f531bad849f.css?body=1" for 127.0.0.1 at 2016-02-27 18:50:53 -0800
+
+
+Started GET "/assets/jquery_ujs-f0a443983bc68ad1dbbc158b4a5ed6e3.js?body=1" for 127.0.0.1 at 2016-02-27 18:50:53 -0800
+
+
+Started GET "/assets/turbolinks-9e3b65eeeac0c6118c3e8c9bcedabb82.js?body=1" for 127.0.0.1 at 2016-02-27 18:50:53 -0800
+
+
+Started GET "/assets/jquery-ea5fcc383f1c3ba0951dc18cd0671f8c.js?body=1" for 127.0.0.1 at 2016-02-27 18:50:53 -0800
+
+
+Started GET "/assets/pages-f6c6ef02137813db1b2df8e2c31983a1.js?body=1" for 127.0.0.1 at 2016-02-27 18:50:53 -0800
+
+
+Started GET "/assets/application-ecc799760e7774898f2ca1683c814370.js?body=1" for 127.0.0.1 at 2016-02-27 18:50:53 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 18:50:55 -0800
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 57ms (Views: 56.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages-539b1b2d248fcacaf845c897cae976a6.css?body=1" for 127.0.0.1 at 2016-02-27 18:50:55 -0800
+
+
+Started GET "/assets/application-2e9d1cb72084fa4225b20f531bad849f.css?body=1" for 127.0.0.1 at 2016-02-27 18:50:55 -0800
+
+
+Started GET "/assets/jquery-ea5fcc383f1c3ba0951dc18cd0671f8c.js?body=1" for 127.0.0.1 at 2016-02-27 18:50:55 -0800
+
+
+Started GET "/assets/jquery_ujs-f0a443983bc68ad1dbbc158b4a5ed6e3.js?body=1" for 127.0.0.1 at 2016-02-27 18:50:55 -0800
+
+
+Started GET "/assets/turbolinks-9e3b65eeeac0c6118c3e8c9bcedabb82.js?body=1" for 127.0.0.1 at 2016-02-27 18:50:55 -0800
+
+
+Started GET "/assets/pages-f6c6ef02137813db1b2df8e2c31983a1.js?body=1" for 127.0.0.1 at 2016-02-27 18:50:55 -0800
+
+
+Started GET "/assets/application-ecc799760e7774898f2ca1683c814370.js?body=1" for 127.0.0.1 at 2016-02-27 18:50:55 -0800

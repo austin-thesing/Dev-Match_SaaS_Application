@@ -310,3 +310,132 @@ Started GET "/assets/pages-f6c6ef02137813db1b2df8e2c31983a1.js?body=1" for 127.0
 
 
 Started GET "/assets/application-ecc799760e7774898f2ca1683c814370.js?body=1" for 127.0.0.1 at 2016-02-27 19:44:41 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 20:10:39 -0800
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 86ms (Views: 76.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages-539b1b2d248fcacaf845c897cae976a6.css?body=1" for 127.0.0.1 at 2016-02-27 20:10:39 -0800
+
+
+Started GET "/assets/application-2e9d1cb72084fa4225b20f531bad849f.css?body=1" for 127.0.0.1 at 2016-02-27 20:10:39 -0800
+
+
+Started GET "/assets/application-ecc799760e7774898f2ca1683c814370.js?body=1" for 127.0.0.1 at 2016-02-27 20:10:39 -0800
+
+
+Started GET "/assets/jquery_ujs-f0a443983bc68ad1dbbc158b4a5ed6e3.js?body=1" for 127.0.0.1 at 2016-02-27 20:10:39 -0800
+
+
+Started GET "/assets/jquery-ea5fcc383f1c3ba0951dc18cd0671f8c.js?body=1" for 127.0.0.1 at 2016-02-27 20:10:39 -0800
+
+
+Started GET "/assets/pages-f6c6ef02137813db1b2df8e2c31983a1.js?body=1" for 127.0.0.1 at 2016-02-27 20:10:39 -0800
+
+
+Started GET "/assets/turbolinks-9e3b65eeeac0c6118c3e8c9bcedabb82.js?body=1" for 127.0.0.1 at 2016-02-27 20:10:39 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 20:10:41 -0800
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 42ms (Views: 41.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages-539b1b2d248fcacaf845c897cae976a6.css?body=1" for 127.0.0.1 at 2016-02-27 20:10:41 -0800
+
+
+Started GET "/assets/application-2e9d1cb72084fa4225b20f531bad849f.css?body=1" for 127.0.0.1 at 2016-02-27 20:10:41 -0800
+
+
+Started GET "/assets/jquery_ujs-f0a443983bc68ad1dbbc158b4a5ed6e3.js?body=1" for 127.0.0.1 at 2016-02-27 20:10:41 -0800
+
+
+Started GET "/assets/turbolinks-9e3b65eeeac0c6118c3e8c9bcedabb82.js?body=1" for 127.0.0.1 at 2016-02-27 20:10:41 -0800
+
+
+Started GET "/assets/jquery-ea5fcc383f1c3ba0951dc18cd0671f8c.js?body=1" for 127.0.0.1 at 2016-02-27 20:10:41 -0800
+
+
+Started GET "/assets/pages-f6c6ef02137813db1b2df8e2c31983a1.js?body=1" for 127.0.0.1 at 2016-02-27 20:10:41 -0800
+
+
+Started GET "/assets/application-ecc799760e7774898f2ca1683c814370.js?body=1" for 127.0.0.1 at 2016-02-27 20:10:41 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 20:19:04 -0800
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 104ms (Views: 100.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-2e9d1cb72084fa4225b20f531bad849f.css?body=1" for 127.0.0.1 at 2016-02-27 20:19:04 -0800
+
+
+Started GET "/assets/pages-539b1b2d248fcacaf845c897cae976a6.css?body=1" for 127.0.0.1 at 2016-02-27 20:19:04 -0800
+
+
+Started GET "/assets/jquery_ujs-f0a443983bc68ad1dbbc158b4a5ed6e3.js?body=1" for 127.0.0.1 at 2016-02-27 20:19:04 -0800
+
+
+Started GET "/assets/application-ecc799760e7774898f2ca1683c814370.js?body=1" for 127.0.0.1 at 2016-02-27 20:19:04 -0800
+
+
+Started GET "/assets/jquery-ea5fcc383f1c3ba0951dc18cd0671f8c.js?body=1" for 127.0.0.1 at 2016-02-27 20:19:04 -0800
+
+
+Started GET "/assets/pages-f6c6ef02137813db1b2df8e2c31983a1.js?body=1" for 127.0.0.1 at 2016-02-27 20:19:04 -0800
+
+
+Started GET "/assets/turbolinks-9e3b65eeeac0c6118c3e8c9bcedabb82.js?body=1" for 127.0.0.1 at 2016-02-27 20:19:04 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 22:09:10 -0800
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 2043ms (Views: 2040.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-ea5fcc383f1c3ba0951dc18cd0671f8c.js?body=1" for 127.0.0.1 at 2016-02-27 22:09:12 -0800
+
+
+Started GET "/assets/application-78079c4f047cfe5df5addbcf60e2c282.css?body=1" for 127.0.0.1 at 2016-02-27 22:09:12 -0800
+
+
+Started GET "/assets/turbolinks-9e3b65eeeac0c6118c3e8c9bcedabb82.js?body=1" for 127.0.0.1 at 2016-02-27 22:09:12 -0800
+
+
+Started GET "/assets/jquery_ujs-f0a443983bc68ad1dbbc158b4a5ed6e3.js?body=1" for 127.0.0.1 at 2016-02-27 22:09:12 -0800
+
+
+Started GET "/assets/application-ecc799760e7774898f2ca1683c814370.js?body=1" for 127.0.0.1 at 2016-02-27 22:09:12 -0800
+
+
+Started GET "/assets/pages-f6c6ef02137813db1b2df8e2c31983a1.js?body=1" for 127.0.0.1 at 2016-02-27 22:09:12 -0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-27 22:11:21 -0800
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 880ms (Views: 880.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-78079c4f047cfe5df5addbcf60e2c282.css?body=1" for 127.0.0.1 at 2016-02-27 22:11:22 -0800
+
+
+Started GET "/assets/jquery-ea5fcc383f1c3ba0951dc18cd0671f8c.js?body=1" for 127.0.0.1 at 2016-02-27 22:11:22 -0800
+
+
+Started GET "/assets/jquery_ujs-f0a443983bc68ad1dbbc158b4a5ed6e3.js?body=1" for 127.0.0.1 at 2016-02-27 22:11:22 -0800
+
+
+Started GET "/assets/turbolinks-9e3b65eeeac0c6118c3e8c9bcedabb82.js?body=1" for 127.0.0.1 at 2016-02-27 22:11:22 -0800
+
+
+Started GET "/assets/pages-f6c6ef02137813db1b2df8e2c31983a1.js?body=1" for 127.0.0.1 at 2016-02-27 22:11:22 -0800
+
+
+Started GET "/assets/application-ecc799760e7774898f2ca1683c814370.js?body=1" for 127.0.0.1 at 2016-02-27 22:11:22 -0800

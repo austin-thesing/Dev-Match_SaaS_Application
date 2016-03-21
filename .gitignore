@@ -5,7 +5,9 @@
 /log/*
 !/log/.keep
 /tmp
-log/development.log
+/log/development.log
 
 # Ignore application configuration
 /config/application.yml
+
+.DS_Store

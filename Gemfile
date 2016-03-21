@@ -8,6 +8,8 @@ gem 'sqlite3', group: [:development, :test]
 
 # Adds the bootstrap styling
 gem 'bootstrap-sass', '3.3.1'
+# Font Library for use on Websites/Apps
+gem 'font-awesome-sass', '4.5.0'
 
 group :production do
   gem 'pg'
@@ -31,6 +33,7 @@ gem 'jbuilder', '2.0'
 gem 'sdoc', '0.4.0',          group: :doc
 # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
 gem 'spring',        group: :development
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '3.1.7'
 # Use unicorn as the app server
